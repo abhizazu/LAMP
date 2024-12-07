@@ -10,3 +10,6 @@ This project demonstrates a basic LAMP stack setup on Red Hat Linux.
 ## Features
 - Dynamic PHP page connected to a database
 - Basic database operations
+ 
+## Connection check from nginx
+- Hey this from nginx
